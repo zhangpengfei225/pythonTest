@@ -1,4 +1,4 @@
-# 求滑动窗口的最大值, 本题使用暴力破解的方式
+# 求滑动窗口的最大值, 本题使用
 class Solution:
     # 使用暴力破解
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
